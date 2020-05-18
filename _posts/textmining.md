@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Text Mining: bibliographic mapping
+title: Examples
 ---
 
-Breve descripcion
-# HD1
-prueba
-## HD2
-prueba
+# Examples of works done
+*Text Mining
+  *Bibliographic Mapping: SCIMAT tools
+*Data Visualization
+  *Tableau
