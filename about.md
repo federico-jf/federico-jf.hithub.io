@@ -20,4 +20,4 @@ permalink: /About/
 + Free Software
 
 ### Contact me
-[Email](mailto:federicojferrero@gmail.com)
+[federicojferrero@gmail.com](mailto:federicojferrero@gmail.com)
