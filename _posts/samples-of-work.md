@@ -1,5 +1,5 @@
 ---
-layout: Samples of personal work 
+layout: page
 title: Samples of personal work 
 ---
 
