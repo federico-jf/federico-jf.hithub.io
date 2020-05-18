@@ -21,7 +21,7 @@ permalink: /Home/
 ___
 ### Examples of works done
 + Text Mining
-  + Bibliographic mapping with SciMAT 
+  + [Bibliographic mapping with SciMAT] (https://sci2s.ugr.es/scimat/) 
 
 ### Contact me
 [Email me](mailto:federicojferrero@gmail.com)
