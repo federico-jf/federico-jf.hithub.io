@@ -4,7 +4,7 @@ title: Text Mining: bibliographic mapping
 ---
 
 Breve descripcion
-##Sección 1
+# HD1
 prueba
-###Subsección 1
+## HD2
 prueba
