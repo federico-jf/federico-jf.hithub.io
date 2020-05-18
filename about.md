@@ -18,7 +18,6 @@ permalink: /About/
 + Vygotskyan approach in Learning Sciences
 + Digital Humanities
 + Free Software
-___
 
 ### Contact me
 [Email](mailto:federicojferrero@gmail.com)
