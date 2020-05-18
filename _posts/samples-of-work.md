@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Samples of personal work 
 ---
 
