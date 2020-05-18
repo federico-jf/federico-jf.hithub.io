@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Samples of personal work 
 ---
 + Text Mining
