@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
+title: Work samples
 ---
-###Work Samples
 + Text Mining
   + [Bibliographic mapping with SciMAT](https://sci2s.ugr.es/scimat/)
 + Data Visualization
