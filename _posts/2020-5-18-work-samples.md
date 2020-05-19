@@ -11,6 +11,6 @@ title:
   + [Regression Analysis exercise](https://federico-jf.github.io/assets/Final_Paper_Ferrero.pdf)
   + [Regression Analysis](https://federico-jf.github.io/Final_Paper_Ferrero.pdf)
   ___
-  + (<embed src="https://federico-jf.github.io/Final_Paper_Ferrero.pdf" type="application/pdf" />)
+  + <embed src="https://federico-jf.github.io/Final_Paper_Ferrero.pdf" type="application/pdf" />
 
 
