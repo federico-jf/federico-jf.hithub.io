@@ -7,6 +7,5 @@ title:
 + Data Visualization
   + Tableau
 + Regression Analysis
-  + [Multicollinearity and missing data](https://github.com/federico-jf/regression-analysis/blob/master/homework4_federico_ferrero.R)
-  + [Regression Analysis exercise](https://federico-jf.github.io/assets/Final_Paper_Ferrero.pdf)
-  
+  + [Multicollinearity and missing data](https://github.com/federico-jf/regression-analysis/blob/master/assets/homework4_federico_ferrero.R)
+  + [Regression Analysis exercise](https://github.com/federico-jf/regression-analysis/blob/master/assets/Final_Paper_Ferrero.pdf)
