@@ -5,7 +5,7 @@ layout: page
   + [Bibliographic mapping with SciMAT](https://sci2s.ugr.es/scimat/)
   
 #### Data Visualization
-  + Tableau
+  + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
   
 #### Regression Analysis
   + [Regression Analysis exercise](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
