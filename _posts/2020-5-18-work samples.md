@@ -3,6 +3,7 @@ layout: page
 ---
 #### Text Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
+  + [Text mining with R exercises]
   
 #### Data Visualization
   + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
