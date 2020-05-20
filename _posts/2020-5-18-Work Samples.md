@@ -9,8 +9,8 @@ layout: page
   + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
   
 #### Regression Analysis (R code)
-  + [Regression Analysis exercise](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
-  + [Regression Analysis exercise: replication code](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
+  + [Regression Analysis Paper](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
+  + [Regression Analysis Paper: replication code](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
   
 #### Geographic Information Systems
   + [ArcGIS Pro]
