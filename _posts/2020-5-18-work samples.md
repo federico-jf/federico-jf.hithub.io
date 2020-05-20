@@ -12,7 +12,7 @@ layout: page
   + [Regression Analysis exercise: replication code](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
   
 #### Geographic Information Systems
-  + [ArcGIS Pro]
+  + [ArcGIS Pro](https://github.com/federico-jf/federico-jf.github.io/blob/master/_posts/2020-5-20-r%20code)
     
   + <embed src="https://federico-jf.github.io/Final_Paper_Ferrero.pdf" type="application/pdf" />
 
