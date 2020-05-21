@@ -1,6 +1,6 @@
 ---
 layout: page
-title: work samples
+title:
 permalink: /work samples/
 ---
 
