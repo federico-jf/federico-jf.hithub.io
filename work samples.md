@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: work samples
 permalink: /work samples/
 ---
