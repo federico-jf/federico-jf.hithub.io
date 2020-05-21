@@ -155,9 +155,9 @@ cor.test(data = frequency[frequency$author == "H.G. Wells",],
 library(tidytext)
 sentiments
 
-# get specific sentiment lexicons: NRC describe mood stateword emotions 
+# get specific sentiment lexicons: NRC describes word emotions 
 get_sentiments("nrc")
-# it returned an error, so I google it:
+# it returned an error, so I google the solution:
 
 library(remotes)
 install_github("EmilHvitfeldt/textdata")
@@ -186,15 +186,103 @@ nrcjoy <- get_sentiments("nrc") %>%
   filter(sentiment == "joy")
 
 tidy_books %>%
-  filter(book== 'Emma') %>%
+  filter(book== "Emma") %>%
   inner_join(nrcjoy) %>%
   count(word, sort = TRUE)
 
+# examine how sentiment changes throughout each novel (pag 18)
+library(tidyr)
+janeautensentiment <- tidy_books %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(book, index= linenumber %/% 80, sentiment) %>%
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative)
 
-# wordcloud
+# now plot previous calculation: we can see how each novel changes toward + or - sentiment across the story 
+library(ggplot2)
+ggplot(janeautensentiment, aes(index, sentiment, fill = book)) + 
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~book, ncol = 2, scales = "free_x")
+
+# comparing the 3 sentiment dicionaries or lexicons using "Pride and Prejudice"
+
+pride_prejudice <- tidy_books %>%
+  filter(book == "Pride & Prejudice")
+
+#test output
+pride_prejudice
+
+# estimate the net sentiment (positive-negative) in each chunk of the novel for each lexicon (pag 20)
+afinn <- pride_prejudice %>%
+  inner_join(get_sentiments("afinn")) %>%
+  group_by(index = linenumber %/% 80) %>%
+  summarise(sentiment = sum(value)) %>%
+  mutate(method = "AFINN")
+
+bing_and_nrc <- bind_rows(
+  pride_prejudice %>%
+    inner_join(get_sentiments("bing")) %>%
+    mutate(method = "Bing et al."),
+  pride_prejudice %>%
+    inner_join(get_sentiments("nrc") %>%
+                 filter(sentiment %in% c("positive", "negative"))) %>%
+    mutate(method = "NRC")) %>%
+  count(method, index = linenumber %/% 80, sentiment) %>%
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative)
+
+# plot the previous estimation: wesee similar picks and downs in the same novel places using different lexicons
+bind_rows(afinn,
+          bing_and_nrc) %>%
+  ggplot(aes(index, sentiment, fill = method)) + 
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~method, ncol = 1, scales = "free_y")
+
+# most common positive and negative words
+
+bing_word_counts <- tidy_books %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  ungroup()
+
+# test output
+bing_word_counts
+
+# plot previous calculation
+
+bing_word_counts %>%
+  group_by(sentiment) %>%
+  top_n(10) %>%
+  ungroup() %>%
+  mutate(word = reorder (word,n)) %>%
+  ggplot(aes(word, n, fill = sentiment)) + 
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sentiment, scales = "free_y") +
+  labs(y = "Contribution to sentiment", 
+       x = NULL) +
+  coord_flip()
+
+# add "miss" (because has been included as a "negative word") to a custom stop-words
+
+custom_stop_words <- bind_rows(data_frame(word = c("miss"),
+                                          lexicon = c ("custom")),
+                               stop_words)
+
+# wordcloud: most common words in Jane Austen's novels
 install.packages("wordcloud")
 library(wordcloud)
 tidy_books %>%
   anti_join(stop_words) %>%
   count(word) %>%
-  with(wordcloud(word, n, max.words = 50))
+  with(wordcloud(word, n, max.words = 100))
+
+# generate a wordcloud showing sentiment analysis
+
+install.packages("reshape2")
+library("reshape2")
+tidy_books %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = c("gray20", "gray80"), 
+                   max.words = 100)
