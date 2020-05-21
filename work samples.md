@@ -16,7 +16,7 @@ permalink: /work samples/
   + [Regression Analysis Paper: replication code ~ R](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
    
 #### Geographic Information Systems
-  + [ArcGIS Pro]
+  + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
 
 #### Relational Databases and SQL
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
