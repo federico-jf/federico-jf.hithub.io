@@ -1,7 +1,7 @@
 ---
 layout: default
 title: work samples
-permalink: /work/
+permalink: /work samples/
 ---
 
 #### Text Mining
