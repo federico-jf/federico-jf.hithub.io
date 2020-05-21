@@ -19,7 +19,7 @@ permalink: /work samples/
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
 
 #### Network Analysis Software
-  + [Gephi]
+  + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
 
 #### Data Visualization
   + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
