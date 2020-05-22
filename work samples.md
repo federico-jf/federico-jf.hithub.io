@@ -7,7 +7,7 @@ permalink: /work samples/
 #### test
   + [example]{% link _example.md %}
   {% link _example.md %}
-  
+  {{ site.baseurl }}{% link _example.md %}
 #### Text Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
   + [Text mining with R: Sentiment analysis exercises](https://federico-jf.github.io/work_samples/Text mining with R exercises.R)
