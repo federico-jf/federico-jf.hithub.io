@@ -17,6 +17,7 @@ permalink: /about/
 + Learning Analytics
 + Vygotskyan approach in Learning Sciences
 + Data mining in education
++ Prediction in education
 + Digital Humanities
 
 ### Contact me
