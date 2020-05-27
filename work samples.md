@@ -13,7 +13,7 @@ permalink: /work samples/
   + [Regression Analysis Paper: replication code ~ R](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
   + [Interaction effects: code ~ R](https://federico-jf.github.io/work_samples/homework3_ff.R) 
   + [Multicollinearity assessment: code ~ R](https://federico-jf.github.io/work_samples/homework4_federico_ferrero.R)
-  + [Methods for avoiding missing data / Logistic regression: code ~ R](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
+  + [Methods for avoiding missing data / Logistic regression: code ~ R](https://federico-jf.github.io/work_samples/Homework_5_Ferrero.R)
    
 #### Geographic Information Systems
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
