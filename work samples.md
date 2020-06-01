@@ -20,6 +20,7 @@ permalink: /work samples/
 
 #### Relational Databases and SQL
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
+  + [Udacity Final Assignment ~ SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
 
 #### Network Analysis Software
   + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
