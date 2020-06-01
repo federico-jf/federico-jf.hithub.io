@@ -3,7 +3,7 @@ Federico Ferrero
 /*Let's start with creating a table that provides the following details: actor's first and last name combined as full_name,
 film title, film description and length of the movie.
 
-How many rows are there in the table?. RTA: 5462*/
+How many rows are there in the table?. Answ: 5462*/
 SELECT CONCAT(a.first_name, ' ', a.last_name) AS full_name, f.title, f.description, f.length
 FROM film f
 JOIN film_actor t
@@ -13,7 +13,7 @@ ON t.actor_id = a.actor_id
 ;
 
 /*Write a query that creates a list of actors and movies where the movie length
-was more than 60 minutes. How many rows are there in this query result?* RTA: 4900*/
+was more than 60 minutes. How many rows are there in this query result?* Answ: 4900*/
 
 SELECT CONCAT(a.first_name, ' ', a.last_name) AS full_name, f.title movie, f.length
 FROM film f
@@ -38,7 +38,7 @@ ORDER BY 3 DESC
 LIMIT 1
 ;
 
-/*otra forma de resolverlo, con una subquery que optimiza el trabajo, lo hace más rapido:*/
+/*other way to solve it:*/
 SELECT actorid, full_name,
        COUNT(filmtitle) film_count_peractor
 FROM
@@ -71,8 +71,7 @@ ORDER BY 3 DESC
  ON t.actor_id = a.actor_id;
 
  /*Now, we bring in the advanced SQL query concepts! Revise the query you wrote above
- to create a count of movies in each of the 4 filmlen_groups: 1 hour or less, Between 1-2 hours, Between 2-3 hours, More than 3 hours.
- OJO CON REUSAR VIEJO CODIGO, A VECES MEJOR ESCRIBIRLO DE CERO PARA RESPONDER BIEN A LA PREGUNTA*/
+ to create a count of movies in each of the 4 filmlen_groups: 1 hour or less, Between 1-2 hours, Between 2-3 hours, More than 3 hours.*/
 
 SELECT DISTINCT(filmlen_groups),
 COUNT(title) OVER (PARTITION BY filmlen_groups) AS filmcount_bylencat
@@ -86,7 +85,7 @@ FROM
  ORDER BY filmlen_groups;
 
 
-/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++trabajo final
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 SET 1 ejercicio 1*+++++++++++++++++++++++++++++++++++++++++++++++++/
 /*We want to understand more about the movies that families are watching. The following categories are considered
 family movies: Animation, Children, Classics, Comedy, Family and Music.
