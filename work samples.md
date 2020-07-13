@@ -6,6 +6,7 @@ permalink: /work samples/
 
 #### Text Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
+  + [Bibliographic mapping about Artificial Intelligence in Education](https://federico-jf.github.io/work_samples/EPPS 6302 Presentation Federico Ferrero.pdf)
   + [Text mining with R: Sentiment Analysis exercises](https://federico-jf.github.io/work_samples/Text mining with R exercises.R)
   
 #### Regression Analysis
