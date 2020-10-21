@@ -6,9 +6,10 @@ layout: page
   + [Text mining with R exercises](https://federico-jf.github.io/work_samples/Text mining with R exercises.R)
   
 #### Data Visualization
+  + [Shiny App Sample](https://federicoferrero.shinyapps.io/assignment7/)
   + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
   
-#### Regression Analysis (R code)
+  #### Regression Analysis (R code)
   + [Regression Analysis Paper](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
   + [Regression Analysis Paper: replication code](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
   
