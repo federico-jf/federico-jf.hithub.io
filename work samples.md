@@ -24,11 +24,10 @@ permalink: /work samples/
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
   + [Udacity Final Assignment ~ SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
 
-#### Network Analysis Software
-  + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
-
-#### Data Visualization
-  + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
+#### Data Visualization and Social Network Analysis 
++ [#AlevelResults Case: Visualizing Social Networks from Twitter](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/Proposal%20presentation%20Federico%20Ferrero.pdf)
++ [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
++ [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
   
 #### Publications
   + [Doctoral dissertation](https://www.academia.edu/38714174/Aprendizaje_de_L%C3%B3gica_Informal_y_uso_de_nuevas_tecnolog%C3%ADas_para_la_diagramaci%C3%B3n_de_argumentos_un_estudio_de_caso_en_la_Universidad_Nacional_de_C%C3%B3rdoba)
