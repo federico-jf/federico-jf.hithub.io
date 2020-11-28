@@ -7,7 +7,7 @@ permalink: /work samples/
 #### Text Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
   + [Bibliographic mapping about Artificial Intelligence in Education](https://federico-jf.github.io/work_samples/EPPS 6302 Presentation Federico Ferrero.pdf)
-  + [Text mining with R: Sentiment Analysis exercises](https://federico-jf.github.io/work_samples/Text mining with R exercises.R)
+  + [Text mining with R: Sentiment Analysis exercises & Social Network Analysis](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
   + [Seminar: Text Mining techniques for bibliographic mapping (Spanish)](https://federico-jf.github.io/work_samples/Técnicas de Text Mining para mapeos bibliográficos.pdf)
   
 #### Regression Analysis
@@ -25,7 +25,7 @@ permalink: /work samples/
   + [Udacity Final Assignment ~ SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
 
 #### Data Visualization and Social Network Analysis 
-+ [#AlevelResults Case: Visualizing Social Networks from Twitter](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/Proposal%20presentation%20Federico%20Ferrero.pdf)
++ [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/Data-Visualization-UTD-EPPS-6356/)
 + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
 + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
   
