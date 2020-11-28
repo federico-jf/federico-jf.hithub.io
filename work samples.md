@@ -12,17 +12,17 @@ permalink: /work samples/
   
 #### Regression Analysis
   + [Regression Analysis Paper](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
-  + [Regression Analysis Paper: replication code - R](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
-  + [Interaction effects: code - R](https://federico-jf.github.io/work_samples/homework3_ff.R) 
-  + [Multicollinearity assessment: code - R](https://federico-jf.github.io/work_samples/homework4_federico_ferrero.R)
-  + [Methods for avoiding missing data / Logistic regression: code - R](https://federico-jf.github.io/work_samples/Homework_5_Ferrero.R)
+  + [Regression Analysis Paper: replication code ~ R](https://federico-jf.github.io/work_samples/Replication_code_ferrero.R)
+  + [Interaction effects: code ~ R](https://federico-jf.github.io/work_samples/homework3_ff.R) 
+  + [Multicollinearity assessment: code ~ R](https://federico-jf.github.io/work_samples/homework4_federico_ferrero.R)
+  + [Methods for avoiding missing data / Logistic regression: code ~ R](https://federico-jf.github.io/work_samples/Homework_5_Ferrero.R)
    
 #### Geographic Information Systems
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
 
 #### Relational Databases and SQL
-  + [Open University relational database design and analysis - SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
-  + [Udacity Final Assignment - SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
+  + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
+  + [Udacity Final Assignment ~ SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
 
 #### Data Visualization and Social Network Analysis 
 + [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/Data-Visualization-UTD-EPPS-6356/)
