@@ -10,6 +10,10 @@ permalink: /work samples/
   + ["Prediction" in educational research: a bibliographic mapping of academic production over time](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Paper%20Mapping%20Prediction%20and%20Education.pdf)
   + [Text mining with R: Sentiment Analysis exercises & Social Network Analysis](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
   + [Seminar: Text Mining techniques for bibliographic mapping (Spanish)](https://federico-jf.github.io/work_samples/Técnicas de Text Mining para mapeos bibliográficos.pdf)
+
+
+#### Machine Learning
+  + [Knowledge Mining (UTD)](https://federico-jf.github.io/Knowledge-Mining/)
   
 #### Regression Analysis
   + [Regression Analysis Paper](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
