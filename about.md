@@ -16,6 +16,7 @@ permalink: /about/
 + Academic Analytics
 + Learning Analytics
 + Vygotskyan approach in Learning Sciences
++ Learning of Logic and Computer Programming
 + Data mining in education
 + Prediction in education
 + Digital Humanities
