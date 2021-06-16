@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-  + [CV](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
+  + [CV](https://federico-jf.github.io/blob/master/Federico%20Ferrero%20CV.pdf)
