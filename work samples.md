@@ -27,7 +27,8 @@ permalink: /work samples/
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
   + [Udacity Final Assignment ~ SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
 
-#### Data Visualization and Social Network Analysis 
+#### Data Visualization and Social Network Analysis
++ [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
 + [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/Data-Visualization-UTD-EPPS-6356/)
 + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
 + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
