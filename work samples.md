@@ -33,6 +33,6 @@ permalink: /work samples/
 + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
   
 #### Publications
-  + [Doctoral dissertation](https://www.academia.edu/38714174/Aprendizaje_de_L%C3%B3gica_Informal_y_uso_de_nuevas_tecnolog%C3%ADas_para_la_diagramaci%C3%B3n_de_argumentos_un_estudio_de_caso_en_la_Universidad_Nacional_de_C%C3%B3rdoba)
+  + [Doctoral dissertation](https://ffyh.unc.edu.ar/secyt/wp-content/uploads/sites/22/2019/04/EBOOK_FERRERO.pdf)
   + [Academia.edu](https://cordoba.academia.edu/FedericoFerrero)
   
