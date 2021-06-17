@@ -19,6 +19,13 @@ permalink: /work samples/
   + [Interaction effects: code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework3_ff.R) 
   + [Multicollinearity assessment: code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework4_federico_ferrero.R)
   + [Methods for avoiding missing data / Logistic regression: code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Homework_5_Ferrero.R)
+
+#### Data Visualization and Social Network Analysis
++ [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
++ [Social Network Analysis & R code: descriptive, visualizations, and ERGM)](https://federico-jf.github.io/Social-Network-Analysis-PSCI-7381/code_outputs.html)
++ [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/Data-Visualization-UTD-EPPS-6356/)
++ [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
++ [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
    
 #### Geographic Information Systems
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
@@ -27,13 +34,6 @@ permalink: /work samples/
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
   + [Udacity Final Assignment ~ SQL](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Trabajo_final_sql.sql)
 
-#### Data Visualization and Social Network Analysis
-+ [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
-+ [Social Network Analysis & R code: descriptive, visualizations, and ERGM)](https://federico-jf.github.io/Social-Network-Analysis-PSCI-7381/code_outputs.html)
-+ [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/Data-Visualization-UTD-EPPS-6356/)
-+ [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
-+ [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
-  
 #### Publications
   + [Doctoral dissertation](https://ffyh.unc.edu.ar/secyt/wp-content/uploads/sites/22/2019/04/EBOOK_FERRERO.pdf)
   + [Academia.edu](https://cordoba.academia.edu/FedericoFerrero)
