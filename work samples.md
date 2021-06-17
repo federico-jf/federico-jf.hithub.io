@@ -25,7 +25,7 @@ permalink: /work samples/
 
 #### Relational Databases and SQL
   + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
-  + [Udacity Final Assignment ~ SQL](https://federico-jf.github.io/work_samples/Trabajo_final_sql.sql)
+  + [Udacity Final Assignment ~ SQL](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Trabajo_final_sql.sql)
 
 #### Data Visualization and Social Network Analysis
 + [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
