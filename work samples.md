@@ -7,7 +7,7 @@ permalink: /work samples/
 #### Knowledge Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
   + [Bibliographic mapping about Artificial Intelligence in Education](https://federico-jf.github.io/work_samples/EPPS 6302 Presentation Federico Ferrero.pdf)
-  + ["Prediction" in educational research: a bibliographic mapping of academic production over time](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Paper%20Mapping%20Prediction%20and%20Education.pdf)
+  + ["Prediction" in educational research: a bibliographic mapping of academic production over time](https://federico-jf.github.io/work_samples/Paper Mapping Prediction and Education.pdf)
   + [Text mining with R: Sentiment Analysis exercises & Social Network Analysis](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
   + [Seminar: Text Mining techniques for bibliographic mapping (Spanish)](https://federico-jf.github.io/work_samples/Técnicas de Text Mining para mapeos bibliográficos.pdf)
   + [Knowledge Mining - UTD exercises and assignments](https://federico-jf.github.io/Knowledge-Mining/)
