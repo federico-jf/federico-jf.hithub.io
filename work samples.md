@@ -37,12 +37,4 @@ permalink: /work samples/
 #### Publications
   + [Doctoral dissertation](https://ffyh.unc.edu.ar/secyt/wp-content/uploads/sites/22/2019/04/EBOOK_FERRERO.pdf)
   + [Academia.edu](https://cordoba.academia.edu/FedericoFerrero)
-  
-```{r letter-a, echo=FALSE}
-question("What number is the letter A in the English alphabet?",
-  answer("8"),
-  answer("14"),
-  answer("1", correct = TRUE),
-  answer("23")
-)
-```
+
