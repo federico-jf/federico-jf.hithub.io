@@ -21,4 +21,4 @@ permalink: /about/
 + Digital Humanities
 
 ### Contact me
-[federicojferrero@gmail.com](mailto:federicojferrero@gmail.com)
+[federico.ferrero@utdallas.edu](mailto:federico.ferrero@utdallas.edu)
