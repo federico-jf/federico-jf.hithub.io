@@ -14,7 +14,7 @@ permalink: /about/
 
 ### Interests
 + Education Policy
-+ Technology
++ Technologies and Governance
 + Decision-Making processes
 + Academic and Learning Analytics
 + Vygotskyan approach in Learning Sciences
