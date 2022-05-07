@@ -28,7 +28,7 @@ permalink: /work samples/
 + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
    
 #### Survey Research
-  + [Qualtrics] (https://federico-jf.github.io/work_samples/Ferrero_Final_Paper.pdf)
+  + [Qualtrics](https://federico-jf.github.io/work_samples/Ferrero_Final_Paper.pdf)
  
 #### Geographic Information Systems
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
