@@ -4,7 +4,7 @@ title: about me
 permalink: /about/
 ---
 
-*I worked in educational research (Doctoral and Postdoctoral Fellow at CONICET, Argentina) about teaching, creating, and delivering content to higher-education students in online and blended-learning courses. Strong experience with Learning Theories of Sociocultural tradition, Learning and Academic Analytics, and Educational Technology. I have training in qualitative research (Grounded Theory and Ethnographic procedures) as well as quantitative research building SQL queries and using Python and R programming languages in regression models, data visualization, GIS, and data mining.  During my years in Argentina, I have accumulated experience in international research and projects for the institutional strengthening with digital technologies. I'm a passionate learner & tech-savvy, interested in humanistic discussions about technology. Nowadays, I work as a Data Analyst (Program Evaluation) at Dallas Independent School District while I am a PhD student in the Public Affairs program at The University of Texas at Dallas.*
+*I worked in educational research (Doctoral and Postdoctoral Fellow at CONICET, Argentina) about teaching, creating, and delivering content to higher-education students in online and blended-learning courses. Strong experience with Learning Theories of Sociocultural tradition, Learning and Academic Analytics, and Educational Technology. I have training in qualitative research (Grounded Theory and Ethnographic procedures) as well as quantitative research building SQL queries and using Python and R programming languages in regression models, data visualization, GIS, and data mining.  During my years in Argentina, I have accumulated experience in international research and projects for the institutional strengthening with digital technologies. I'm a passionate learner & tech-savvy, interested in humanistic discussions about technology. Nowadays, I work as a Data Analyst (Program Evaluation) at Dallas Independent School District.*
 
 ### Education
 + Ph.D. in Education (National University of Cordoba, Argentina) (2016)
@@ -13,6 +13,7 @@ permalink: /about/
 + B.A. in Education (National University of Cordoba, Argentina) (2010)
 
 ### Interests
++ Program Evaluation
 + Education Policy
 + Technologies and Governance
 + Decision-Making processes
@@ -21,4 +22,4 @@ permalink: /about/
 + Digital Humanities
 
 ### Contact me
-[federico.ferrero@utdallas.edu](mailto:federico.ferrero@utdallas.edu)
+[fferrero@dallasisd.org](mailto:fferrero@dallasisd.org)
