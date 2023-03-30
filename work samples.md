@@ -22,7 +22,7 @@ permalink: /work samples/
 
 #### Data Visualization and Social Network Analysis
 + [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
-+ [Social Network Analysis & R code: descriptive, visualizations, and ERGM)](https://federico-jf.github.io/Social-Network-Analysis-PSCI-7381/code_outputs.html)
++ [Social Network Analysis & R code: descriptive, visualizations, and ERGM)](https://federico-jf.github.io/work_samples/SNA_code.R)
 + [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/Data-Visualization-UTD-EPPS-6356/)
 + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
 + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
