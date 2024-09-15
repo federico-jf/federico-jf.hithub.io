@@ -5,6 +5,8 @@ permalink: /work samples/
 ---
 #### Item Response Theory
   + [Item Response Theory Practice with R: a Tutorial](https://rpubs.com/fferrero/IRT_Tutorial)
+  + [Computarized Adaptive Testing (CAT) with R: a Tutorial](https://rpubs.com/fferrero/1220685)
+
 
 #### Knowledge Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
